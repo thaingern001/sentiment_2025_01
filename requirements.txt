@@ -1,0 +1,3 @@
+nltk
+datasets
+scikit-learn

@@ -1,0 +1,70 @@
+# =============================
+# Python
+# =============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+
+# Virtual environment
+.venv/
+venv/
+env/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# =============================
+# Jupyter Notebook
+# =============================
+.ipynb_checkpoints/
+jupyter_cache/
+*.ipynb~
+*.nbconvert/
+
+# =============================
+# Machine Learning / Data
+# =============================
+data/
+out/
+logs/
+*.log
+
+# Large datasets / exports
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.pickle
+*.pkl
+*.pt
+*.pth
+*.joblib
+
+# =============================
+# IDEs / Editors
+# =============================
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.swp
+*.swo
+
+# =============================
+# OS files
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# Config files (optional)
+# Uncomment if config.yaml contains secrets
+# config.yaml
